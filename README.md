@@ -1,0 +1,2 @@
+# FuncApp
+Sample Azure Func
